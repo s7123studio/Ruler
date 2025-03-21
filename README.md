@@ -4,5 +4,5 @@ Flutter开发的多平台高适配屏幕尺子程序。Windows，Android，iOS�
 
 ## 截图
 
-![image](https://user-images.githubusercontent.com/53956627/226847740-9d8f9b8c-8a9c-4d5a-9d8a-5b6f7e8d8b8a.png)
-![image](https://user-images.githubusercontent.com/53956627/226847740-9d8f9b8c-8a9c-4d5a-9d8a-5b6f7e8d8b8a.png)
+![image](https://github.com/s7123studio/Ruler/blob/main/.vscode/1.png?raw=true)
+![image](https://github.com/s7123studio/Ruler/blob/main/.vscode/2.png?raw=true)
